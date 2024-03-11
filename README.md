@@ -3,7 +3,7 @@
 ![Go-Proxy-BingAI](./docs/img/header.png)
 
 # Go-Proxy-BingAI
-
+#
 基于微软 New Bing 定制的微软 BingAI 演示站点
 
 一致UI 体验, ChatGPT 提示词, 基本兼容 BingAI 所有功能, 一键登录, 支持 API 调用
